@@ -10,4 +10,5 @@ A brief summary of some searching algorithms in C ++
 
 ## Big-O Graph
 ![BigO Complexity](https://user-images.githubusercontent.com/49571908/93129968-33aaed80-f6a8-11ea-9c4b-422997df0acd.PNG)
+
 Image from [Big-O Cheat Sheet](https://www.bigocheatsheet.com)
