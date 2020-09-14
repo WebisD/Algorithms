@@ -8,7 +8,7 @@
 using std::vector;
 
 template <typename T>
-bool binarySearch(T target, vector<T>list){
+bool binarySearch(T target, vector<T> list){
     int min = 0, max = list.size()-1;
     int middle;
 
